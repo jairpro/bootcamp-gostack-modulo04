@@ -39,7 +39,7 @@
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo[<a href="https://github.com/jairpro/bootcamp-gostack-modulo04/blob/master/LICENSE">LICENSE</a>] para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/jairpro/bootcamp-gostack-modulo04/blob/master/LICENSE">LICENSE</a> para mais detalhes.
 
 ---
 
